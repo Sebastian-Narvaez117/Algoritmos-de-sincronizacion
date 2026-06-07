@@ -186,13 +186,3 @@ Algoritmos-de-sincronizacion/
 ```
 
 ---
-
-## Autor
-
-**Sebastián Narváez**
-
----
-
-## Licencia
-
-MIT
